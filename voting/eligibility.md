@@ -1,2 +1,3 @@
 # Eligibility
 
+Who can vote.

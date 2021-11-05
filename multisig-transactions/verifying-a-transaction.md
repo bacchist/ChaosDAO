@@ -6,5 +6,4 @@ Navigate to Developer -> Extrinsics and prepare the transaction as if you were i
 
 If you are the last person to approve the transaction, or if it has already met the threshold, you can execute the transaction using the call string.
 
-![](../.gitbook/assets/Screenshot\_20211020\_063827.png)
-
+![](<../.gitbook/assets/Screenshot\_20211020\_063827 (1).png>)
