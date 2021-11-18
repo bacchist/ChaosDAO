@@ -7,9 +7,9 @@
 ## Members
 
 * [Ranks](members/ranks/README.md)
-  * [Frens](members/ranks/frens.md)
-  * [Regulars](members/ranks/regulars.md)
   * [DAOists](members/ranks/daoists.md)
+  * [Regulars](members/ranks/regulars.md)
+  * [Frens](members/ranks/frens.md)
 * [Roles](members/roles/README.md)
   * [NFT Artists](members/roles/nft-artists.md)
   * [Youtubers](members/roles/youtubers.md)
