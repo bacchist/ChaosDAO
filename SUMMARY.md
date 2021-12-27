@@ -15,7 +15,7 @@
   * [Youtubers](members/roles/youtubers.md)
   * [Validators](members/roles/validators.md)
   * [Developers](members/roles/developers.md)
-  * [Page 1](members/roles/page-1.md)
+  * [VIPs](members/roles/vips.md)
 
 ## Voting
 
