@@ -33,7 +33,3 @@
 * [Submitting A Multisig Transaction](multisig-transactions/submitting-a-multisig-transaction.md)
 * [Verifying A Transaction](multisig-transactions/verifying-a-transaction.md)
 * [Approving A Transaction](multisig-transactions/approving-a-transaction.md)
-
-## The Citadel
-
-* [Jail](the-citadel/jail.md)
